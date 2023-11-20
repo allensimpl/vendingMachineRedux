@@ -1,0 +1,21 @@
+.profile-container{
+    background:     rgb(252, 165, 4);
+    height: 600px;
+    width: 1400px;
+    padding: 30px;
+    color: rgb(0, 0, 0);
+
+}
+
+.profile{
+    background: rgb(104, 3, 54);
+    border-radius: 15px;
+    width:800px;
+    height: 500px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h1{
+    color: #e9dddd !important;
+}
